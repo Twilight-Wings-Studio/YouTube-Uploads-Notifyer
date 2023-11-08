@@ -66,6 +66,23 @@ jobs:
           echo '::error ::git-pr-release failed with "${{ steps.git-pr-release.outputs.error }}"'
           exit 1
 ```
+## X のフリープランへ登録する方法
+
+1. 下記へアクセス
+https://developer.twitter.com/en/portal/petition/essential/terms?plan=free
+1. 「Sign up for Free Account」をクリック
+1. TwitterのデータとAPIの使用例を250文字以上で説明します。
+
+X APIを使用する時の説明例（そのまま使っても恐らく通ります）
+```
+Xに自身のYouTubeのストリームや動画投稿の通知を自動POSTするbotの作成を行います。
+今は開発段階ですが、ゆくゆくはサービスとして運用する予定です。
+We will create a bot that automatically posts notifications of your own YouTube streams and video posts to X.
+It is currently in the development stage, but we plan to eventually operate it as a service.
+```
+
+## X へのPOSTするためのキーを取得する
+
 
 ## Twilight Wings Studio Streamer Apps
 
