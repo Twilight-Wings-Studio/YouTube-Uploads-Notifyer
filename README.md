@@ -91,6 +91,15 @@ It is currently in the development stage, but we plan to eventually operate it a
 
 ## X へのPOSTするためのキーを取得する
 
+## Discord へPOSTするためのWebhookURLを取得する
+
+## GitHubに登録する
+
+## GitHubにこのアクションを使うためのリポジトリを作成する
+
+## 作ったリポジトリに各種設定値を隠蔽して登録する
+
+## 作ったリポジトリにアクションを設定する
 
 # Twilight Wings Studio Streamer Apps
 
