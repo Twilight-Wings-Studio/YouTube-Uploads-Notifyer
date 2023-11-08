@@ -72,6 +72,8 @@ jobs:
 https://developer.twitter.com/en/portal/petition/essential/terms?plan=free
 1. 「Sign up for Free Account」をクリック
 1. TwitterのデータとAPIの使用例を250文字以上で説明します。
+1. すべてチェックを入れる
+1. 「Submit」をクリックする
 
 X APIを使用する時の説明例（そのまま使っても恐らく通ります）
 ```
