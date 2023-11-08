@@ -4,6 +4,7 @@ YouTubeの新着アップロードをX(=Twitter)とDiscordで自動通知しま�
 Automatically notifying new YouTube uploads on X(=Twitter) and Discord.
 
 - [X のフリープランへ登録する方法](#x-のフリープランへ登録する方法)
+- [X へのpostするためのキーを取得する](#x-へのpostするためのキーを取得する)
 
 ## Parameters
 - `youtube_channel_id`
