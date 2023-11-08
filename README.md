@@ -5,6 +5,13 @@ Automatically notifying new YouTube uploads on X(=Twitter) and Discord.
 
 - [X のフリープランへ登録する方法](#x-のフリープランへ登録する方法)
 - [X へのpostするためのキーを取得する](#x-へのpostするためのキーを取得する)
+- [Discord へpostするためのwebhookurlを取得する](#discord-へpostするためのwebhookurlを取得する)
+- [GitHubに登録する](#githubに登録する)
+- [GitHubにこのアクションを使うためのリポジトリを作成する](#githubにこのアクションを使うためのリポジトリを作成する)
+- [作ったリポジトリに各種設定値を隠蔽して登録する](#作ったリポジトリに各種設定値を隠蔽して登録する)
+- [作ったリポジトリにアクションを設定する](#作ったリポジトリにアクションを設定する)
+
+***
 
 ## Parameters
 - `youtube_channel_id`
@@ -69,6 +76,8 @@ jobs:
           echo '::error ::git-pr-release failed with "${{ steps.git-pr-release.outputs.error }}"'
           exit 1
 ```
+***
+
 ## X のフリープランへ登録する方法
 
 1. 下記へアクセス  
