@@ -3,6 +3,8 @@
 YouTubeの新着アップロードをX(=Twitter)とDiscordで自動通知します。  
 Automatically notifying new YouTube uploads on X(=Twitter) and Discord.
 
+- [X のフリープランへ登録する方法](#x-のフリープランへ登録する方法)
+
 ## Parameters
 - `youtube_channel_id`
   - YouTubeのチャンネルIDです。カスタマイズページの「チャンネル URL」の欄に「UC」から始まる文字列があります。
@@ -68,9 +70,12 @@ jobs:
 ```
 ## X のフリープランへ登録する方法
 
-1. 下記へアクセス
-https://developer.twitter.com/en/portal/petition/essential/terms?plan=free
-1. 「Sign up for Free Account」をクリック
+1. 下記へアクセス  
+   https://developer.twitter.com/en/portal/petition/essential/terms?plan=free
+1. 「Sign up for Free Account」をクリック  
+   <img src="readme/1.png" alt="attach:cat" title="attach:cat" width="400">
+1. 下記のページに着ます  
+   <img src="readme/2.png" alt="attach:cat" title="attach:cat" width="400">
 1. TwitterのデータとAPIの使用例を250文字以上で説明します。
 1. すべてチェックを入れる
 1. 「Submit」をクリックする
