@@ -78,7 +78,7 @@ jobs:
 ```
 ***
 
-## X のフリープランへ登録する方法
+### X のフリープランへ登録する方法
 
 1. 下記へアクセス  
    https://developer.twitter.com/en/portal/petition/essential/terms?plan=free
@@ -98,17 +98,19 @@ We will create a bot that automatically posts notifications of your own YouTube 
 It is currently in the development stage, but we plan to eventually operate it as a service.
 ```
 
-## X へのPOSTするためのキーを取得する
+### X へのPOSTするためのキーを取得する
 
-## Discord へPOSTするためのWebhookURLを取得する
+### Discord へPOSTするためのWebhookURLを取得する
 
-## GitHubに登録する
+[DiscordのWebhookURLを取得する方法](https://intercom.help/yoom/ja/articles/7031857-discord%E3%81%AEwebhookurl%E3%82%92%E5%8F%96%E5%BE%97%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95)
 
-## GitHubにこのアクションを使うためのリポジトリを作成する
+### GitHubに登録する
 
-## 作ったリポジトリに各種設定値を隠蔽して登録する
+### GitHubにこのアクションを使うためのリポジトリを作成する
 
-## 作ったリポジトリにアクションを設定する
+### 作ったリポジトリに各種設定値を隠蔽して登録する
+
+### 作ったリポジトリにアクションを設定する
 
 # Twilight Wings Studio Streamer Apps
 
