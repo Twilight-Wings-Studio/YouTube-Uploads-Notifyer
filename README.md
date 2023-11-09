@@ -106,6 +106,8 @@ It is currently in the development stage, but we plan to eventually operate it a
 
 ### GitHubに登録する
 
+[GitHubアカウントの作成方法 (2021年版)](https://qiita.com/ayatokura/items/9eabb7ae20752e6dc79d)
+
 ### GitHubにこのアクションを使うためのリポジトリを作成する
 
 ### 作ったリポジトリに各種設定値を隠蔽して登録する
